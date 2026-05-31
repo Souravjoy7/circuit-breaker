@@ -1,0 +1,19 @@
+{
+  "name": "circuit-breaker",
+  "version": "1.0.0",
+  "description": "Decentralized Circuit Breaker — real-time exploit detection and auto-pause for smart contracts",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "demo": "npx hardhat run scripts/demo.js",
+    "deploy": "npx hardhat run scripts/deploy.js --network linea_sepolia"
+  },
+  "keywords": ["web3", "security", "circuit-breaker", "exploit-detection", "mev"],
+  "author": "Souravjoy7",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.12",
+    "ethers": "^6.16.0",
+    "hardhat": "^3.7.0"
+  }
+}
