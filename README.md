@@ -6,19 +6,19 @@
 
 ### Base Sepolia (OP Stack)
 
-| Contract | Address |
-|----------|---------|
-| **CircuitBreaker** | [`0x81734Aa0...1b65f`](https://sepolia.basescan.org/address/0x81734Aa078eB6b410Db4418Ce6edccACA0F1b65f) |
-| AnomalyDetector | [`0xBf10e41A...3351`](https://sepolia.basescan.org/address/0xBf10e41A3e12cB173eaeb445B6b31EF8674F3351) |
-| ProtocolRegistry | [`0x67a66c92...f76B`](https://sepolia.basescan.org/address/0x67a66c92fAC0194bb62Dc90f5a7b4cF83623f76B) |
+| Contract | Address | Tx Hash |
+|----------|---------|---------|
+| **ProtocolRegistry** | [`0x67a66c92fAC0194bb62Dc90f5a7b4cF83623f76B`](https://sepolia.basescan.org/address/0x67a66c92fAC0194bb62Dc90f5a7b4cF83623f76B) | [`0xbf6582c...f9ee0`](https://sepolia.basescan.org/tx/0xbf6582ceb774f1927a87ec5362f6f7e2f169b13c7bc5fb2601b6a87d133f9ee0) |
+| **AnomalyDetector** | [`0xBf10e41A3e12cB173eaeb445B6b31EF8674F3351`](https://sepolia.basescan.org/address/0xBf10e41A3e12cB173eaeb445B6b31EF8674F3351) | [`0x275b47d...783f0`](https://sepolia.basescan.org/tx/0x275b47dbb4c7e0c778c061f04a0d5d296a308dea20df9e780d06c97bf5c783f0) |
+| **CircuitBreaker** | [`0x81734Aa078eB6b410Db4418Ce6edccACA0F1b65f`](https://sepolia.basescan.org/address/0x81734Aa078eB6b410Db4418Ce6edccACA0F1b65f) | [`0x4b144c5...54982`](https://sepolia.basescan.org/tx/0x4b144c5f6b605179739c555e87054405ea2c4ca45b33472ebfcb35f101e54982) |
 
 ### Linea Sepolia (ZK-Rollup)
 
 | Contract | Address |
 |----------|---------|
-| **CircuitBreaker** | [`0x301045eA...97d51`](https://sepolia.lineascan.build/address/0x301045eAa0EF1c200178DC3f9a70580060397d51) |
-| AnomalyDetector | [`0xBbf988EF...7354`](https://sepolia.lineascan.build/address/0xBbf988EFe8897a0183E390e7f5AA14F6a7A97354) |
-| ProtocolRegistry | [`0x13Db0D79...67a6A`](https://sepolia.lineascan.build/address/0x13Db0D79479A1C7401EDA702B6029b1A96667a6A) |
+| **ProtocolRegistry** | [`0x13Db0D79479A1C7401EDA702B6029b1A96667a6A`](https://sepolia.lineascan.build/address/0x13Db0D79479A1C7401EDA702B6029b1A96667a6A) |
+| **AnomalyDetector** | [`0xBbf988EFe8897a0183E390e7f5AA14F6a7A97354`](https://sepolia.lineascan.build/address/0xBbf988EFe8897a0183E390e7f5AA14F6a7A97354) |
+| **CircuitBreaker** | [`0x301045eAa0EF1c200178DC3f9a70580060397d51`](https://sepolia.lineascan.build/address/0x301045eAa0EF1c200178DC3f9a70580060397d51) |
 
 **Deployer**: [`0x7F75bfAfeD5c96584774c7F2Bc33F3bF887BC739`](https://sepolia.basescan.org/address/0x7F75bfAfeD5c96584774c7F2Bc33F3bF887BC739)
 
